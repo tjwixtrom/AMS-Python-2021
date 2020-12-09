@@ -1,8 +1,8 @@
 ## Large Dataset Manipulation in Python: A Multi-Sensor, Multi-Model Case Study
 ### Tyler Wixtrom
-#### American Meteorological Society Python Symposium, January 2021
+#### 11th Symposium on Advances in Modeling and Analysis Using Python, 101st American Meteorological Society Annual Meeting, January 2021
 
-Inlcuded are slides and an example notebook from my presentation to the 11th Symposium on Advances in Modeling and Analysis Using Python at the 2021 American Meteorological Society.
+Inlcuded are slides and an example notebook from my presentation to the 11th Symposium on Advances in Modeling and Analysis Using Python at the 2021 American Meteorological Society Annual Meeting.
 
 ##### See Also:
 https://github.com/ac0015/wrf-ens-tools
