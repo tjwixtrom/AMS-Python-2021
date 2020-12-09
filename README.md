@@ -2,7 +2,7 @@
 ### Tyler Wixtrom
 #### American Meteorological Society Python Symposium, January 2021
 
-Inlcuded are slides and an example notebook from my presentation to the 2021 Python Symposium at the American Meteorological Society.
+Inlcuded are slides and an example notebook from my presentation to the 11th Symposium on Advances in Modeling and Analysis Using Python at the 2021 American Meteorological Society.
 
 ##### See Also:
 https://github.com/ac0015/wrf-ens-tools
